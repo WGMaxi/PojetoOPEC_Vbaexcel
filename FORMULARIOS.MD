@@ -25,7 +25,6 @@ o menu é bem simples e intuitivo
 ![alterar_reg](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/9b84140a-4a7c-491a-8f96-830674910cfd)
 ## INSERINDO DADOS
 Para inserir os dados os campos contam com a função de colar dando duplo click, copi a informação de onde ela estiver e clicando duas vezes ele cola no campo que estou manipulando
-![insert](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/47476a58-04b2-4b42-b660-37b5e02a8a3e)
 ![insrte_1](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/e7b82961-c587-4211-9033-3f1149e21ad0)
 ![insert_2](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/9bade17f-b568-4530-81ab-3478f06878e5)
 ![insert b](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/987deea4-5da1-4302-a7c0-bda1b3b58064)
