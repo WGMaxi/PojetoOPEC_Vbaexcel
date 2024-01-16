@@ -13,7 +13,6 @@ A primeira interação é perguntar qual monitor vamos usar para tabela, se houv
 Ao entar na home ela já puxa os dados da tabela ativa e disponibiliza em forma de list para consulta.
 ![table_home](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/a641d648-5494-4a9f-a1f3-ec850a4064e4)<BR/>
 ![table_home_result](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/b04a6def-aa89-451b-9b36-389786a014ee)<BR/>
-![home_b](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/774ccb7e-5096-46bd-a068-5a42a20d6fde)<BR/>
 o menu é bem simples e intuitivo<BR/>
 ![procura_comprovante](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/66077b6a-99d1-4c05-b695-820b61b577ba)<BR/>
 ![procura pi](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/a425d23e-e2de-4b65-8ba3-aaf1cc5abfb9)<BR/>
