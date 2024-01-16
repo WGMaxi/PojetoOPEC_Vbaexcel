@@ -1,7 +1,7 @@
 # FORMULARIOS DO PROGRAMA
 O primeiro passo foi passar por todo processo que era feito para controle de mídia, observando os métodos utilizados e em cima da lógica da operação adaptei a planilha.
 
-## estrutura das tabelas
+## ESTRUTURA DAS TABELAS
 ![plan estrutura](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/19a17338-b7ab-45d4-952f-1da173e17ded)
 De inicio estabeleci a entrada como 12 tabelas cada uma referente a um mes do ano, com as colunas que seriam necessárias para todas as informações do processo de entrada até controle de faturamento.
 ![tables](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/0ae899bd-d4d4-436d-841d-de5f1cbed534)
@@ -9,7 +9,7 @@ De inicio estabeleci a entrada como 12 tabelas cada uma referente a um mes do an
 Cada tabela contém um botão que entra na home do formulário, através dele o excel entende qual tabla estamos manipulando.
 A primeira interação é perguntar qual monitor vamos usar para tabela, se houver 2 monitores
 ![escolha1](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/36f69802-4ca5-4322-9ddb-378d5b10c1c1)
-## Home
+## HOME
 Ao entar na home ela já puxa os dados da tabela ativa e disponibiliza em forma de list para consulta.
 ![table_home](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/a641d648-5494-4a9f-a1f3-ec850a4064e4)
 ![table_home_result](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/b04a6def-aa89-451b-9b36-389786a014ee)
@@ -27,12 +27,9 @@ o menu é bem simples e intuitivo
 Para inserir os dados os campos contam com a função de colar dando duplo click, copi a informação de onde ela estiver e clicando duas vezes ele cola no campo que estou manipulando
 ![insrte_1](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/e7b82961-c587-4211-9033-3f1149e21ad0)
 ![insert_2](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/9bade17f-b568-4530-81ab-3478f06878e5)
-![insert b](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/987deea4-5da1-4302-a7c0-bda1b3b58064)
 ## RELATÓRIOS DE FATURAMENTO
 Neste formulario ele puxa todos os dados da tabela e me mostra o que foi faturado e o que esta pendente, da mesma forma com relação a comprovação de mídia.
 ![faturamento](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/4eebfaf3-6ef5-4ae8-95e2-3ed14857b319)
-![relatórios_b2](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/2cb223ea-2aa2-4ee9-8be4-064c3e9fa722)
 ## NAVEGAR PELAS TABELAS
 Neste formulário ele permite que o úsuario mude de um mês para outro sem a necessidade de fechar o formulário e abrir em outra tabela.
 ![meses b](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/d1b3c625-3de8-4374-8c40-02377bda8bdf)
-![relatórios_b1](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/a8dd196c-2cf5-43eb-9dfa-5846057a9e8f)
