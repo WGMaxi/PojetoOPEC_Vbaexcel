@@ -19,7 +19,6 @@ o menu é bem simples e intuitivo
 ![procura pi](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/a425d23e-e2de-4b65-8ba3-aaf1cc5abfb9)
 ![pesquisas](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/b0414233-eaf6-4558-b647-858bc1d72763)
 ![nomecomp](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/c26f06d2-62ac-4fb5-9388-4e17b5e5b115)
-![faturamento](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/4eebfaf3-6ef5-4ae8-95e2-3ed14857b319)
 ![cancelamento](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/df37019c-de00-4f18-8659-c32cb5b7ea9f)
 ![caminhos](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/51501c5f-0898-460d-8b6c-a47335341097)
 ![artigo299](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/ef28a663-91aa-4db5-b754-a9668683b966)
@@ -32,6 +31,7 @@ Para inserir os dados os campos contam com a função de colar dando duplo click
 ![insert b](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/987deea4-5da1-4302-a7c0-bda1b3b58064)
 ## RELATÓRIOS DE FATURAMENTO
 Neste formulario ele puxa todos os dados da tabela e me mostra o que foi faturado e o que esta pendente, da mesma forma com relação a comprovação de mídia.
+![faturamento](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/4eebfaf3-6ef5-4ae8-95e2-3ed14857b319)
 ![relatórios_b2](https://github.com/WGMaxi/PojetoOPEC_Vbaexcel/assets/118560480/2cb223ea-2aa2-4ee9-8be4-064c3e9fa722)
 ## NAVEGAR PELAS TABELAS
 Neste formulário ele permite que o úsuario mude de um mês para outro sem a necessidade de fechar o formulário e abrir em outra tabela.
